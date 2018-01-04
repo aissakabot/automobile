@@ -33,7 +33,7 @@
                 <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
             </ul>
             <ul class="givusacall">
-                <li>Give us a call : +66666666 </li>
+                <li>Call us to  : +66666666 </li>
             </ul>
             <ul class="logreg">
                 @if (Auth::check())
